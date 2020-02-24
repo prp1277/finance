@@ -9,6 +9,7 @@ verify_ssl = true
 requests = "*"
 pandas = "*"
 numpy = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.6"
