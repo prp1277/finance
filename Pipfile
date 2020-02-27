@@ -10,6 +10,10 @@ requests = "*"
 pandas = "*"
 numpy = "*"
 nltk = "*"
+torch = "*"
+torchvision = "*"
+twython = "*"
+flask = "*"
 
 [requires]
 python_version = "3.6"
