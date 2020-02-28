@@ -97,6 +97,7 @@ pbr==5.4.4
 pexpect==4.7.0
 pickleshare==0.7.5
 Pillow==7.0.0
+pip-review==1.0
 pipenv==2018.11.26
 plotly==4.4.1
 prometheus-client==0.7.1
