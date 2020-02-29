@@ -1,0 +1,187 @@
+﻿Transaction,Date,Cost,Detail
+Cara Therapeutics Limit Buy,11/10/2016,$49.00,5 shares at $9.80
+Bank of America Limit Buy,11/11/2016,$18.71,1 share at $18.71
+American Outdoor Brands Limit Buy,11/11/2016,$110.00,5 shares at $22.00
+Ford Limit Buy,11/11/2016,$122.18,10 shares at $12.22
+Bank of America Market Sell,11/16/2016,$19.79,1 share at $19.79
+Deposit from Core Bank,11/17/2016,$300.00,
+BauschHealth Market Buy,11/30/2016,$15.68,1 share at $15.68
+Ford Market Sell,1/31/2017,$123.40,10 shares at $12.34
+AMD Limit Buy,2/13/2017,$122.85,9 shares at $13.65
+Dividend from Ford,3/1/2017,$2.00,
+BauschHealth Market Sell,3/7/2017,$11.68,1 share at $11.68
+Cara Therapeutics Limit Sell,3/30/2017,$98.55,5 shares at $19.71
+American Outdoor Brands Limit Sell,4/27/2017,Canceled,
+Deposit from Core Bank,5/18/2017,$50.00,
+Nasdaq Market Buy,5/23/2017,$203.91,3 shares at $67.97
+AMD Limit Buy,5/23/2017,Canceled,
+Deposit from Core Bank,5/25/2017,$50.00,
+Lululemon Market Buy,5/31/2017,$48.33,1 share at $48.33
+AMD Limit Buy,6/2/2017,$10.95,1 share at $10.95
+Deposit from Core Bank,6/2/2017,$50.00,
+Deposit from Core Bank,6/15/2017,$50.00,
+AMD Limit Buy,6/16/2017,$23.00,2 shares at $11.50
+Deposit from Core Bank,6/22/2017,$50.00,
+Deposit from Core Bank,6/29/2017,$50.00,
+Dividend from Nasdaq,6/30/2017,$1.14,
+Deposit from Core Bank,7/7/2017,$50.00,
+Scotts Miracle-Gro Market Buy,7/10/2017,$91.61,1 share at $91.61
+KeyBank Limit Buy,7/10/2017,Canceled,
+Coca-Cola Market Buy,7/10/2017,$88.81,2 shares at $44.41
+Deposit from Core Bank,7/13/2017,$50.00,
+Deposit from Core Bank,7/20/2017,$50.00,
+Pfizer Limit Buy,7/21/2017,Canceled,
+Pfizer Limit Buy,7/24/2017,$99.75,3 shares at $33.25
+Deposit from Core Bank,7/27/2017,$50.00,
+Sprint Market Sell,7/31/2017,$39.98,5 shares at $8.00
+Sprint Limit Buy,7/31/2017,$40.90,5 shares at $8.18
+Deposit from Core Bank,8/3/2017,$50.00,
+T-Mobile Limit Buy,8/7/2017,$129.00,2 shares at $64.50
+Deposit from Core Bank,8/10/2017,$50.00,
+Deposit from Core Bank,8/17/2017,$50.00,
+Deposit from Core Bank,8/24/2017,$50.00,
+American Outdoor Brands Stop Loss Sell,8/29/2017,$85.00,5 shares at $17.00
+Deposit from Core Bank,8/31/2017,$50.00,
+Dividend from Pfizer,9/1/2017,$0.96,
+Dividend from Scotts Miracle-Gro,9/8/2017,$0.53,
+Deposit from Core Bank,9/14/2017,$50.00,
+Deposit from Core Bank,9/21/2017,$50.00,
+Microsoft Limit Buy,9/22/2017,$295.92,4 shares at $73.98
+AMD Stop Loss Sell,9/25/2017,Failed,
+Deposit from Core Bank,9/28/2017,$50.00,
+Dividend from Nasdaq,9/29/2017,$1.14,
+Dividend from Coca-Cola,10/2/2017,$0.74,
+Deposit from Core Bank,10/5/2017,$50.00,
+Cerner Market Buy,10/6/2017,$143.06,2 shares at $71.53
+Deposit from Core Bank,10/13/2017,$50.00,
+Deposit from Core Bank,10/19/2017,$50.00,
+Deposit from Core Bank,10/26/2017,$50.00,
+Deposit from Core Bank,11/2/2017,$50.00,
+Deposit from Core Bank,11/9/2017,$50.00,
+Deposit from Core Bank,11/16/2017,$50.00,
+Lockheed Limit Buy,11/22/2017,Canceled,
+Deposit from Core Bank,11/24/2017,$50.00,
+Deposit from Core Bank,11/30/2017,$50.00,
+Dividend from Pfizer,12/1/2017,$0.96,
+Microsoft Limit Buy,12/4/2017,$422.05,5 shares at $84.41
+Deposit from Core Bank,12/7/2017,$50.00,
+Dividend from Scotts Miracle-Gro,12/8/2017,$0.53,
+Dividend from Microsoft,12/14/2017,$1.68,
+Deposit from Core Bank,12/14/2017,$50.00,
+Dividend from Coca-Cola,12/15/2017,$0.74,
+Deposit from Core Bank,12/19/2017,Failed,
+Dividend from Nasdaq,12/29/2017,$1.14,
+Deposit from Core Bank,12/29/2017,$50.00,
+Deposit from Core Bank,1/5/2018,$50.00,
+Deposit from Core Bank,1/11/2018,$50.00,
+Deposit from Core Bank,1/19/2018,$50.00,
+Deposit from Core Bank,1/25/2018,$50.00,
+Microsoft Market Buy,1/29/2018,$190.20,2 shares at $95.10
+SAP Market Buy,1/29/2018,$113.72,1 share at $113.72
+Deposit from Core Bank,2/1/2018,$50.00,
+Deposit from Core Bank,2/8/2018,$50.00,
+Deposit from Core Bank,2/15/2018,$50.00,
+Deposit from Core Bank,2/23/2018,$50.00,
+Dividend from Pfizer,3/1/2018,$1.02,
+Deposit from Core Bank,3/1/2018,$50.00,
+AMD Limit Sell,3/1/2018,Canceled,
+Dividend from Microsoft,3/8/2018,$4.62,
+Deposit from Core Bank,3/8/2018,$50.00,
+Dividend from Scotts Miracle-Gro,3/9/2018,$0.53,
+T-Mobile Market Sell,3/9/2018,$130.92,2 shares at $65.46
+Deposit from Core Bank,3/15/2018,$50.00,
+Deposit from Core Bank,3/22/2018,$50.00,
+Deposit from Core Bank,3/27/2018,Failed,
+Dividend from Nasdaq,3/30/2018,$1.14,
+Dividend from Coca-Cola,4/2/2018,$0.78,
+Spotify Limit Buy,4/3/2018,Canceled,
+Deposit from Core Bank,4/5/2018,$50.00,
+Deposit from Core Bank,4/10/2018,Failed,
+Deposit from Core Bank,4/19/2018,$50.00,
+Deposit from Core Bank,4/24/2018,Failed,
+Deposit from Core Bank,5/3/2018,$50.00,
+Deposit from Core Bank,5/10/2018,$50.00,
+AMD Market Sell,5/16/2018,$153.61,12 shares at $12.80
+AMD Limit Sell,5/16/2018,Canceled,
+Deposit from Core Bank,5/24/2018,$50.00,
+Dividend from SAP,5/30/2018,$1.65,
+Dividend from Pfizer,6/1/2018,$1.02,
+Deposit from Core Bank,6/1/2018,$50.00,
+Microsoft Market Buy,6/4/2018,$304.58,3 shares at $101.53
+Deposit from Core Bank,6/7/2018,$50.00,
+Dividend from Scotts Miracle-Gro,6/8/2018,$0.53,
+Lockheed Market Buy,6/8/2018,$643.46,2 shares at $321.73
+Dividend from Microsoft,6/14/2018,$4.62,
+Deposit from Core Bank,6/14/2018,$50.00,
+Deposit from Core Bank,6/21/2018,$50.00,
+Deposit from Core Bank,6/28/2018,$50.00,
+Dividend from Nasdaq,6/29/2018,$1.32,
+Dividend from Coca-Cola,7/2/2018,$0.78,
+Deposit from Core Bank,7/6/2018,$50.00,
+Deposit from Core Bank,7/12/2018,$50.00,
+Deposit from Core Bank,7/19/2018,$50.00,
+Deposit from Core Bank,7/26/2018,$50.00,
+Cerner Market Sell,7/31/2018,$123.92,2 shares at $61.96
+Deposit from Core Bank,8/2/2018,$50.00,
+Deposit from Core Bank,8/9/2018,$50.00,
+Conagra Limit Buy,8/14/2018,$330.83,9 shares at $36.76
+MongoDB Market Buy,8/14/2018,$646.00,10 shares at $64.60
+SAP Market Sell,8/14/2018,$113.94,1 share at $113.94
+Coca-Cola Market Sell,8/14/2018,$91.95,2 shares at $45.98
+Deposit from Core Bank,8/16/2018,$50.00,
+Dividend from Pfizer,9/4/2018,$1.02,
+Scotts Miracle-Gro Limit Sell,9/5/2018,$75.00,1 share at $75.00
+Dividend from Scotts Miracle-Gro,9/10/2018,$0.55,
+MongoDB Market Sell,9/10/2018,$244.32,3 shares at $81.44
+Lululemon Limit Sell,9/10/2018,$154.09,1 share at $154.09
+Lockheed Limit Sell,9/13/2018,$660.00,2 shares at $330.00
+Dividend from Microsoft,9/13/2018,$5.88,
+Dividend from Lockheed,9/28/2018,$4.00,
+Dividend from Nasdaq,9/28/2018,$1.32,
+Withdrawal to Core Bank,10/4/2018,"-$1,153.00",
+Conagra Limit Sell,10/24/2018,$333.00,9 shares at $37.00
+First Data Limit Buy,11/7/2018,$292.50,15 shares at $19.50
+MongoDB Limit Sell,11/28/2018,$567.00,7 shares at $81.00
+Dividend from Pfizer,12/4/2018,$1.02,
+Dividend from Conagra,12/4/2018,$1.91,
+Dividend from Microsoft,12/13/2018,$6.44,
+Microsoft Market Buy,12/21/2018,$202.54,2 shares at $101.27
+Dividend from Nasdaq,12/28/2018,$1.32,
+First Data Market Sell,1/30/2019,$376.20,15 shares at $25.08
+First Data Limit Sell,1/30/2019,Canceled,
+Dividend from Pfizer,3/1/2019,$1.08,
+Dividend from Microsoft,3/14/2019,$7.36,
+Dividend from Nasdaq,3/29/2019,$1.32,
+Microsoft Market Buy,4/27/2019,Canceled,
+Dividend from Pfizer,6/7/2019,$1.08,
+Dividend from Microsoft,6/13/2019,$7.36,
+Dividend from Nasdaq,6/28/2019,$1.41,
+Bilibili Market Buy,7/26/2019,$240.24,15 shares at $16.02
+Pluralsight Market Buy,8/1/2019,$92.65,5 shares at $18.53
+Spotify Market Buy,8/1/2019,$464.82,3 shares at $154.94
+Pfizer Limit Sell,8/6/2019,Canceled,
+Pluralsight Limit Sell,8/8/2019,Canceled,
+Deposit from Core Bank,8/8/2019,"$1,000.00",
+Deposit from Core Bank,8/12/2019,$50.00,
+Pfizer Limit Sell,8/13/2019,Placed,
+Pluralsight Limit Sell,8/13/2019,Placed,
+Bilibili Limit Sell,8/13/2019,Placed,
+Dividend from Pfizer,9/3/2019,Pending,
+Pfizer Limit Sell,9/4/2019,$108.00,3 shares at $108.00
+Spotify Market Buy,9/5/2019,$270.74,2 shares at $135.37
+Dividend from Microsoft,9/12/2019,$7.36,
+Dividend from Nasdaq,9/27/2019,$1.41,
+Pluralsight Limit Sell,10/28/2019,$92.50,5 shares at $18.50
+Bilibili Market Sell,11/19/2019,$258.25,15 shares at $16.55
+Disney Market Buy,11/25/2019,$595.48,4 shares at $148.87
+Twitter Market Buy,12/10/2019,$605.80,20 shares at $30.29
+Dividend from Microsoft,12/12/2019,$8.16,
+Dividend from Nasdaq,12/27/2019,$1.41,
+Dividend from Disney,1/17/2020,$7.92,
+Virgin Galactic Holdings Market Buy,2/12/2020,$545.75,25 shares at $21.83
+Virgin Galactic Holdings Limit Buy,2/20/2020,$950.00,25 shares at $38.00
+Virgin Galactic Holdings Stop Loss,2/20/2020,$900.00,25 shares at $36.00
+Disney Market Sell,2/20/2020,$704.00,5 shares at $140.80
+Chewy Markey Buy,2/21/2020,$763.44,25 shares at $30.54
+Virgin Galactic Holdings Limit Buy,2/24/2020,$128.59,4 shares at $32.15
+Dividend from Microsoft,3/12/2020,$8.16,
