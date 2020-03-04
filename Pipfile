@@ -14,6 +14,8 @@ torch = "*"
 torchvision = "*"
 twython = "*"
 flask = "*"
+pandas-datareader = "*"
+websocket = "*"
 
 [requires]
 python_version = "3.6"
