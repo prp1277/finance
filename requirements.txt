@@ -166,7 +166,7 @@ toml==0.10.0
 tornado==6.0.3
 traitlets==4.3.3
 traittypes==0.2.1
-Twisted==17.9.0
+Twisted==19.7.0
 twython==3.7.0
 typed-ast==1.4.0
 ufw==0.36
