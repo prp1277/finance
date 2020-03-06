@@ -16,6 +16,8 @@ twython = "*"
 flask = "*"
 pandas-datareader = "*"
 websocket = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
