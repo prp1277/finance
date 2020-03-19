@@ -1,6 +1,6 @@
 certifi==2019.11.28
 chardet==3.0.4
-Click==7.0
+Click==7.1.1
 cycler==0.10.0
 Flask==1.1.1
 gevent==1.4.0
