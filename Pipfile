@@ -19,6 +19,8 @@ websocket = "*"
 seaborn = "*"
 matplotlib = "*"
 mysql-connector = "*"
+spacy = "*"
+numpy-financial = "*"
 
 [requires]
 python_version = "3.6"
