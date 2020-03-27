@@ -1,0 +1,60 @@
+Transaction,Date,Cost,Detail
+Cara Therapeutics Limit Buy,11/10/2016,$49.00,5 shares at $9.80
+Bank of America Limit Buy,11/11/2016,$18.71,1 share at $18.71
+American Outdoor Brands Limit Buy,11/11/2016,$110.00,5 shares at $22.00
+Ford Limit Buy,11/11/2016,$122.18,10 shares at $12.22
+Bank of America Market Sell,11/16/2016,$19.79,1 share at $19.79
+BauschHealth Market Buy,11/30/2016,$15.68,1 share at $15.68
+Ford Market Sell,1/31/2017,$123.40,10 shares at $12.34
+AMD Limit Buy,2/13/2017,$122.85,9 shares at $13.65
+BauschHealth Market Sell,3/7/2017,$11.68,1 share at $11.68
+Cara Therapeutics Limit Sell,3/30/2017,$98.55,5 shares at $19.71
+Nasdaq Market Buy,5/23/2017,$203.91,3 shares at $67.97
+Lululemon Market Buy,5/31/2017,$48.33,1 share at $48.33
+AMD Limit Buy,6/2/2017,$10.95,1 share at $10.95
+AMD Limit Buy,6/16/2017,$23.00,2 shares at $11.50
+Scotts Miracle-Gro Market Buy,7/10/2017,$91.61,1 share at $91.61
+Coca-Cola Market Buy,7/10/2017,$88.81,2 shares at $44.41
+Pfizer Limit Buy,7/24/2017,$99.75,3 shares at $33.25
+Sprint Market Sell,7/31/2017,$39.98,5 shares at $8.00
+Sprint Limit Buy,7/31/2017,$40.90,5 shares at $8.18
+T-Mobile Limit Buy,8/7/2017,$129.00,2 shares at $64.50
+American Outdoor Brands Stop Loss Sell,8/29/2017,$85.00,5 shares at $17.00
+Microsoft Limit Buy,9/22/2017,$295.92,4 shares at $73.98
+Cerner Market Buy,10/6/2017,$143.06,2 shares at $71.53
+Microsoft Limit Buy,12/4/2017,$422.05,5 shares at $84.41
+Microsoft Market Buy,1/29/2018,$190.20,2 shares at $95.10
+SAP Market Buy,1/29/2018,$113.72,1 share at $113.72
+T-Mobile Market Sell,3/9/2018,$130.92,2 shares at $65.46
+AMD Market Sell,5/16/2018,$153.61,12 shares at $12.80
+Microsoft Market Buy,6/4/2018,$304.58,3 shares at $101.53
+Lockheed Market Buy,6/8/2018,$643.46,2 shares at $321.73
+Cerner Market Sell,7/31/2018,$123.92,2 shares at $61.96
+Conagra Limit Buy,8/14/2018,$330.83,9 shares at $36.76
+MongoDB Market Buy,8/14/2018,$646.00,10 shares at $64.60
+SAP Market Sell,8/14/2018,$113.94,1 share at $113.94
+Coca-Cola Market Sell,8/14/2018,$91.95,2 shares at $45.98
+Scotts Miracle-Gro Limit Sell,9/5/2018,$75.00,1 share at $75.00
+MongoDB Market Sell,9/10/2018,$244.32,3 shares at $81.44
+Lululemon Limit Sell,9/10/2018,$154.09,1 share at $154.09
+Lockheed Limit Sell,9/13/2018,$660.00,2 shares at $330.00
+Conagra Limit Sell,10/24/2018,$333.00,9 shares at $37.00
+First Data Limit Buy,11/7/2018,$292.50,15 shares at $19.50
+MongoDB Limit Sell,11/28/2018,$567.00,7 shares at $81.00
+Microsoft Market Buy,12/21/2018,$202.54,2 shares at $101.27
+First Data Market Sell,1/30/2019,$376.20,15 shares at $25.08
+Bilibili Market Buy,7/26/2019,$240.24,15 shares at $16.02
+Pluralsight Market Buy,8/1/2019,$92.65,5 shares at $18.53
+Spotify Market Buy,8/1/2019,$464.82,3 shares at $154.94
+Pfizer Limit Sell,9/4/2019,$108.00,3 shares at $108.00
+Spotify Market Buy,9/5/2019,$270.74,2 shares at $135.37
+Pluralsight Limit Sell,10/28/2019,$92.50,5 shares at $18.50
+Bilibili Market Sell,11/19/2019,$258.25,15 shares at $16.55
+Disney Market Buy,11/25/2019,$595.48,4 shares at $148.87
+Twitter Market Buy,12/10/2019,$605.80,20 shares at $30.29
+Virgin Galactic Holdings Market Buy,2/12/2020,$545.75,25 shares at $21.83
+Virgin Galactic Holdings Limit Buy,2/20/2020,$950.00,25 shares at $38.00
+Virgin Galactic Holdings Stop Loss,2/20/2020,$900.00,25 shares at $36.00
+Disney Market Sell,2/20/2020,$704.00,5 shares at $140.80
+Chewy Markey Buy,2/21/2020,$763.44,25 shares at $30.54
+Virgin Galactic Holdings Limit Buy,2/24/2020,$128.59,4 shares at $32.15

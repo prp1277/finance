@@ -1,0 +1,1118 @@
+[
+  {
+    "Transaction": "Cara Therapeutics Limit Buy",
+    "Date": "11/10/2016",
+    "Cost": "$49.00",
+    "Detail": "5 shares at $9.80"
+  },
+  {
+    "Transaction": "Bank of America Limit Buy",
+    "Date": "11/11/2016",
+    "Cost": "$18.71",
+    "Detail": "1 share at $18.71"
+  },
+  {
+    "Transaction": "American Outdoor Brands Limit Buy",
+    "Date": "11/11/2016",
+    "Cost": "$110.00",
+    "Detail": "5 shares at $22.00"
+  },
+  {
+    "Transaction": "Ford Limit Buy",
+    "Date": "11/11/2016",
+    "Cost": "$122.18",
+    "Detail": "10 shares at $12.22"
+  },
+  {
+    "Transaction": "Bank of America Market Sell",
+    "Date": "11/16/2016",
+    "Cost": "$19.79",
+    "Detail": "1 share at $19.79"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "11/17/2016",
+    "Cost": "$300.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "BauschHealth Market Buy",
+    "Date": "11/30/2016",
+    "Cost": "$15.68",
+    "Detail": "1 share at $15.68"
+  },
+  {
+    "Transaction": "Ford Market Sell",
+    "Date": "1/31/2017",
+    "Cost": "$123.40",
+    "Detail": "10 shares at $12.34"
+  },
+  {
+    "Transaction": "AMD Limit Buy",
+    "Date": "2/13/2017",
+    "Cost": "$122.85",
+    "Detail": "9 shares at $13.65"
+  },
+  {
+    "Transaction": "Dividend from Ford",
+    "Date": "3/1/2017",
+    "Cost": "$2.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "BauschHealth Market Sell",
+    "Date": "3/7/2017",
+    "Cost": "$11.68",
+    "Detail": "1 share at $11.68"
+  },
+  {
+    "Transaction": "Cara Therapeutics Limit Sell",
+    "Date": "3/30/2017",
+    "Cost": "$98.55",
+    "Detail": "5 shares at $19.71"
+  },
+  {
+    "Transaction": "American Outdoor Brands Limit Sell",
+    "Date": "4/27/2017",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "5/18/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Nasdaq Market Buy",
+    "Date": "5/23/2017",
+    "Cost": "$203.91",
+    "Detail": "3 shares at $67.97"
+  },
+  {
+    "Transaction": "AMD Limit Buy",
+    "Date": "5/23/2017",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "5/25/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Lululemon Market Buy",
+    "Date": "5/31/2017",
+    "Cost": "$48.33",
+    "Detail": "1 share at $48.33"
+  },
+  {
+    "Transaction": "AMD Limit Buy",
+    "Date": "6/2/2017",
+    "Cost": "$10.95",
+    "Detail": "1 share at $10.95"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/2/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/15/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "AMD Limit Buy",
+    "Date": "6/16/2017",
+    "Cost": "$23.00",
+    "Detail": "2 shares at $11.50"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/22/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/29/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "6/30/2017",
+    "Cost": "$1.14",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/7/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Scotts Miracle-Gro Market Buy",
+    "Date": "7/10/2017",
+    "Cost": "$91.61",
+    "Detail": "1 share at $91.61"
+  },
+  {
+    "Transaction": "KeyBank Limit Buy",
+    "Date": "7/10/2017",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Coca-Cola Market Buy",
+    "Date": "7/10/2017",
+    "Cost": "$88.81",
+    "Detail": "2 shares at $44.41"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/13/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/20/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Pfizer Limit Buy",
+    "Date": "7/21/2017",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Pfizer Limit Buy",
+    "Date": "7/24/2017",
+    "Cost": "$99.75",
+    "Detail": "3 shares at $33.25"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/27/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Sprint Market Sell",
+    "Date": "7/31/2017",
+    "Cost": "$39.98",
+    "Detail": "5 shares at $8.00"
+  },
+  {
+    "Transaction": "Sprint Limit Buy",
+    "Date": "7/31/2017",
+    "Cost": "$40.90",
+    "Detail": "5 shares at $8.18"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/3/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "T-Mobile Limit Buy",
+    "Date": "8/7/2017",
+    "Cost": "$129.00",
+    "Detail": "2 shares at $64.50"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/10/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/17/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/24/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "American Outdoor Brands Stop Loss Sell",
+    "Date": "8/29/2017",
+    "Cost": "$85.00",
+    "Detail": "5 shares at $17.00"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/31/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "9/1/2017",
+    "Cost": "$0.96",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Scotts Miracle-Gro",
+    "Date": "9/8/2017",
+    "Cost": "$0.53",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "9/14/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "9/21/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Microsoft Limit Buy",
+    "Date": "9/22/2017",
+    "Cost": "$295.92",
+    "Detail": "4 shares at $73.98"
+  },
+  {
+    "Transaction": "AMD Stop Loss Sell",
+    "Date": "9/25/2017",
+    "Cost": "Failed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "9/28/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "9/29/2017",
+    "Cost": "$1.14",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Coca-Cola",
+    "Date": "10/2/2017",
+    "Cost": "$0.74",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "10/5/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Cerner Market Buy",
+    "Date": "10/6/2017",
+    "Cost": "$143.06",
+    "Detail": "2 shares at $71.53"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "10/13/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "10/19/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "10/26/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "11/2/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "11/9/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "11/16/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Lockheed Limit Buy",
+    "Date": "11/22/2017",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "11/24/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "11/30/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "12/1/2017",
+    "Cost": "$0.96",
+    "Detail": null
+  },
+  {
+    "Transaction": "Microsoft Limit Buy",
+    "Date": "12/4/2017",
+    "Cost": "$422.05",
+    "Detail": "5 shares at $84.41"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "12/7/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Scotts Miracle-Gro",
+    "Date": "12/8/2017",
+    "Cost": "$0.53",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "12/14/2017",
+    "Cost": "$1.68",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "12/14/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Coca-Cola",
+    "Date": "12/15/2017",
+    "Cost": "$0.74",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "12/19/2017",
+    "Cost": "Failed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "12/29/2017",
+    "Cost": "$1.14",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "12/29/2017",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "1/5/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "1/11/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "1/19/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "1/25/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Microsoft Market Buy",
+    "Date": "1/29/2018",
+    "Cost": "$190.20",
+    "Detail": "2 shares at $95.10"
+  },
+  {
+    "Transaction": "SAP Market Buy",
+    "Date": "1/29/2018",
+    "Cost": "$113.72",
+    "Detail": "1 share at $113.72"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "2/1/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "2/8/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "2/15/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "2/23/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "3/1/2018",
+    "Cost": "$1.02",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "3/1/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "AMD Limit Sell",
+    "Date": "3/1/2018",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "3/8/2018",
+    "Cost": "$4.62",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "3/8/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Scotts Miracle-Gro",
+    "Date": "3/9/2018",
+    "Cost": "$0.53",
+    "Detail": null
+  },
+  {
+    "Transaction": "T-Mobile Market Sell",
+    "Date": "3/9/2018",
+    "Cost": "$130.92",
+    "Detail": "2 shares at $65.46"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "3/15/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "3/22/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "3/27/2018",
+    "Cost": "Failed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "3/30/2018",
+    "Cost": "$1.14",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Coca-Cola",
+    "Date": "4/2/2018",
+    "Cost": "$0.78",
+    "Detail": null
+  },
+  {
+    "Transaction": "Spotify Limit Buy",
+    "Date": "4/3/2018",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "4/5/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "4/10/2018",
+    "Cost": "Failed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "4/19/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "4/24/2018",
+    "Cost": "Failed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "5/3/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "5/10/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "AMD Market Sell",
+    "Date": "5/16/2018",
+    "Cost": "$153.61",
+    "Detail": "12 shares at $12.80"
+  },
+  {
+    "Transaction": "AMD Limit Sell",
+    "Date": "5/16/2018",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "5/24/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from SAP",
+    "Date": "5/30/2018",
+    "Cost": "$1.65",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "6/1/2018",
+    "Cost": "$1.02",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/1/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Microsoft Market Buy",
+    "Date": "6/4/2018",
+    "Cost": "$304.58",
+    "Detail": "3 shares at $101.53"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/7/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Scotts Miracle-Gro",
+    "Date": "6/8/2018",
+    "Cost": "$0.53",
+    "Detail": null
+  },
+  {
+    "Transaction": "Lockheed Market Buy",
+    "Date": "6/8/2018",
+    "Cost": "$643.46",
+    "Detail": "2 shares at $321.73"
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "6/14/2018",
+    "Cost": "$4.62",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/14/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/21/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "6/28/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "6/29/2018",
+    "Cost": "$1.32",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Coca-Cola",
+    "Date": "7/2/2018",
+    "Cost": "$0.78",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/6/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/12/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/19/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "7/26/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Cerner Market Sell",
+    "Date": "7/31/2018",
+    "Cost": "$123.92",
+    "Detail": "2 shares at $61.96"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/2/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/9/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Conagra Limit Buy",
+    "Date": "8/14/2018",
+    "Cost": "$330.83",
+    "Detail": "9 shares at $36.76"
+  },
+  {
+    "Transaction": "MongoDB Market Buy",
+    "Date": "8/14/2018",
+    "Cost": "$646.00",
+    "Detail": "10 shares at $64.60"
+  },
+  {
+    "Transaction": "SAP Market Sell",
+    "Date": "8/14/2018",
+    "Cost": "$113.94",
+    "Detail": "1 share at $113.94"
+  },
+  {
+    "Transaction": "Coca-Cola Market Sell",
+    "Date": "8/14/2018",
+    "Cost": "$91.95",
+    "Detail": "2 shares at $45.98"
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/16/2018",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "9/4/2018",
+    "Cost": "$1.02",
+    "Detail": null
+  },
+  {
+    "Transaction": "Scotts Miracle-Gro Limit Sell",
+    "Date": "9/5/2018",
+    "Cost": "$75.00",
+    "Detail": "1 share at $75.00"
+  },
+  {
+    "Transaction": "Dividend from Scotts Miracle-Gro",
+    "Date": "9/10/2018",
+    "Cost": "$0.55",
+    "Detail": null
+  },
+  {
+    "Transaction": "MongoDB Market Sell",
+    "Date": "9/10/2018",
+    "Cost": "$244.32",
+    "Detail": "3 shares at $81.44"
+  },
+  {
+    "Transaction": "Lululemon Limit Sell",
+    "Date": "9/10/2018",
+    "Cost": "$154.09",
+    "Detail": "1 share at $154.09"
+  },
+  {
+    "Transaction": "Lockheed Limit Sell",
+    "Date": "9/13/2018",
+    "Cost": "$660.00",
+    "Detail": "2 shares at $330.00"
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "9/13/2018",
+    "Cost": "$5.88",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Lockheed",
+    "Date": "9/28/2018",
+    "Cost": "$4.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "9/28/2018",
+    "Cost": "$1.32",
+    "Detail": null
+  },
+  {
+    "Transaction": "Withdrawal to Core Bank",
+    "Date": "10/4/2018",
+    "Cost": "-$1,153.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Conagra Limit Sell",
+    "Date": "10/24/2018",
+    "Cost": "$333.00",
+    "Detail": "9 shares at $37.00"
+  },
+  {
+    "Transaction": "First Data Limit Buy",
+    "Date": "11/7/2018",
+    "Cost": "$292.50",
+    "Detail": "15 shares at $19.50"
+  },
+  {
+    "Transaction": "MongoDB Limit Sell",
+    "Date": "11/28/2018",
+    "Cost": "$567.00",
+    "Detail": "7 shares at $81.00"
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "12/4/2018",
+    "Cost": "$1.02",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Conagra",
+    "Date": "12/4/2018",
+    "Cost": "$1.91",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "12/13/2018",
+    "Cost": "$6.44",
+    "Detail": null
+  },
+  {
+    "Transaction": "Microsoft Market Buy",
+    "Date": "12/21/2018",
+    "Cost": "$202.54",
+    "Detail": "2 shares at $101.27"
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "12/28/2018",
+    "Cost": "$1.32",
+    "Detail": null
+  },
+  {
+    "Transaction": "First Data Market Sell",
+    "Date": "1/30/2019",
+    "Cost": "$376.20",
+    "Detail": "15 shares at $25.08"
+  },
+  {
+    "Transaction": "First Data Limit Sell",
+    "Date": "1/30/2019",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "3/1/2019",
+    "Cost": "$1.08",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "3/14/2019",
+    "Cost": "$7.36",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "3/29/2019",
+    "Cost": "$1.32",
+    "Detail": null
+  },
+  {
+    "Transaction": "Microsoft Market Buy",
+    "Date": "4/27/2019",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "6/7/2019",
+    "Cost": "$1.08",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "6/13/2019",
+    "Cost": "$7.36",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "6/28/2019",
+    "Cost": "$1.41",
+    "Detail": null
+  },
+  {
+    "Transaction": "Bilibili Market Buy",
+    "Date": "7/26/2019",
+    "Cost": "$240.24",
+    "Detail": "15 shares at $16.02"
+  },
+  {
+    "Transaction": "Pluralsight Market Buy",
+    "Date": "8/1/2019",
+    "Cost": "$92.65",
+    "Detail": "5 shares at $18.53"
+  },
+  {
+    "Transaction": "Spotify Market Buy",
+    "Date": "8/1/2019",
+    "Cost": "$464.82",
+    "Detail": "3 shares at $154.94"
+  },
+  {
+    "Transaction": "Pfizer Limit Sell",
+    "Date": "8/6/2019",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Pluralsight Limit Sell",
+    "Date": "8/8/2019",
+    "Cost": "Canceled",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/8/2019",
+    "Cost": "$1,000.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Deposit from Core Bank",
+    "Date": "8/12/2019",
+    "Cost": "$50.00",
+    "Detail": null
+  },
+  {
+    "Transaction": "Pfizer Limit Sell",
+    "Date": "8/13/2019",
+    "Cost": "Placed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Pluralsight Limit Sell",
+    "Date": "8/13/2019",
+    "Cost": "Placed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Bilibili Limit Sell",
+    "Date": "8/13/2019",
+    "Cost": "Placed",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Pfizer",
+    "Date": "9/3/2019",
+    "Cost": "Pending",
+    "Detail": null
+  },
+  {
+    "Transaction": "Pfizer Limit Sell",
+    "Date": "9/4/2019",
+    "Cost": "$108.00",
+    "Detail": "3 shares at $108.00"
+  },
+  {
+    "Transaction": "Spotify Market Buy",
+    "Date": "9/5/2019",
+    "Cost": "$270.74",
+    "Detail": "2 shares at $135.37"
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "9/12/2019",
+    "Cost": "$7.36",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "9/27/2019",
+    "Cost": "$1.41",
+    "Detail": null
+  },
+  {
+    "Transaction": "Pluralsight Limit Sell",
+    "Date": "10/28/2019",
+    "Cost": "$92.50",
+    "Detail": "5 shares at $18.50"
+  },
+  {
+    "Transaction": "Bilibili Market Sell",
+    "Date": "11/19/2019",
+    "Cost": "$258.25",
+    "Detail": "15 shares at $16.55"
+  },
+  {
+    "Transaction": "Disney Market Buy",
+    "Date": "11/25/2019",
+    "Cost": "$595.48",
+    "Detail": "4 shares at $148.87"
+  },
+  {
+    "Transaction": "Twitter Market Buy",
+    "Date": "12/10/2019",
+    "Cost": "$605.80",
+    "Detail": "20 shares at $30.29"
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "12/12/2019",
+    "Cost": "$8.16",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Nasdaq",
+    "Date": "12/27/2019",
+    "Cost": "$1.41",
+    "Detail": null
+  },
+  {
+    "Transaction": "Dividend from Disney",
+    "Date": "1/17/2020",
+    "Cost": "$7.92",
+    "Detail": null
+  },
+  {
+    "Transaction": "Virgin Galactic Holdings Market Buy",
+    "Date": "2/12/2020",
+    "Cost": "$545.75",
+    "Detail": "25 shares at $21.83"
+  },
+  {
+    "Transaction": "Virgin Galactic Holdings Limit Buy",
+    "Date": "2/20/2020",
+    "Cost": "$950.00",
+    "Detail": "25 shares at $38.00"
+  },
+  {
+    "Transaction": "Virgin Galactic Holdings Stop Loss",
+    "Date": "2/20/2020",
+    "Cost": "$900.00",
+    "Detail": "25 shares at $36.00"
+  },
+  {
+    "Transaction": "Disney Market Sell",
+    "Date": "2/20/2020",
+    "Cost": "$704.00",
+    "Detail": "5 shares at $140.80"
+  },
+  {
+    "Transaction": "Chewy Markey Buy",
+    "Date": "2/21/2020",
+    "Cost": "$763.44",
+    "Detail": "25 shares at $30.54"
+  },
+  {
+    "Transaction": "Virgin Galactic Holdings Limit Buy",
+    "Date": "2/24/2020",
+    "Cost": "$128.59",
+    "Detail": "4 shares at $32.15"
+  },
+  {
+    "Transaction": "Dividend from Microsoft",
+    "Date": "3/12/2020",
+    "Cost": "$8.16",
+    "Detail": null
+  }
+]
