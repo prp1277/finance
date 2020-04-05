@@ -29,7 +29,7 @@ seaborn==0.10.0
 six==1.14.0
 torch==1.4.0
 torchvision==0.5.0
-twython==3.8.1
+twython==3.8.2
 urllib3==1.25.8
 websocket==0.2.1
 Werkzeug==1.0.1
